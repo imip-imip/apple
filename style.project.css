@@ -92,6 +92,20 @@ p{
     display: flex;
     justify-content: space-between;
 }
+.square1{
+    width: 600px;
+    height: 338px;
+    border: solid rgb(255, 103, 103);
+    border-radius: 15px;
+    overflow: hidden;
+}
+.square2{
+    width: 1150px;
+    height: 594px;
+    border: solid black;
+    border-radius: 15px;
+    overflow: hidden;
+}
 .square{
     margin-bottom: 100px;
     position: relative;
@@ -128,5 +142,3 @@ p{
     cursor: pointer;
     border-radius: 5px;
 }
-
-
